@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Modern Personal Portfolio",
+  "description": "A high-performance, accessible personal landing page featuring dark mode, responsive design, and an integrated Gemini-powered AI career assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
